@@ -5,7 +5,7 @@
 
 ---
 
-## What is this?
+## What is this ?
 
 PlaceAI is a unified platform connecting students, placement
 officers, and recruiters — powered by AI job matching,
